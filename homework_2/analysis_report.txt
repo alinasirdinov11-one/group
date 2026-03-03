@@ -1,0 +1,8 @@
+655655 -rw-rw-r-- 2 ali ali 0 Dec 15 11:39 hard_backup.txt
+655655 -rw-rw-r-- 2 ali ali 0 Dec 15 11:39 orginal_data.txt
+lrwxrwxrwx 1 ali ali 16 Dec 15 11:47 soft_shortcut.txt -> orginal_data.txt
+Report : Hardlink (ln) va softlink (ln -s)  qilib yaratdim orginal_data.txt uchun.keyin orginal_report.txt file ochirdim va softlink ham ochdi chunki u fayl bilan bog'liq boladi fayl o'chsa u ham ishlamidi. Hardlink esa inode omidi file bn br xil inodega ega boladi fayl ochsa ham ozi ishlayveradi sababi hardlink berilsa u fayl bn bir xil fayl bolib qoladi 
+NOTE : 
+ali      tty2         tty2             Mon Dec 15 16:31   still logged in
+
+wtmp begins Wed Oct 15 02:58:20 2025

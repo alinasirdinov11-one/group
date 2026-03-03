@@ -1,0 +1,14 @@
+Question 1 : What type of file is /ect/passwd?What command did you use?
+Answer : Bu oddiy matn fayl hisoblanadi ya'ni ASCII text.Buni tekshirishda file,cat,less,grep buyruqlaridan foydalaniladi.
+Qusestion 2 : What are the last 5 user accounts listed in /etc/passwd?
+gnome-initial-setup:x:119:65534::/run/gnome-initial-setup/:/bin/false
+gdm:x:120:121:Gnome Display Manager:/var/lib/gdm3:/bin/false
+nm-openvpn:x:121:122:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
+ali:x:1000:1000:Ali:/home/ali:/bin/bash
+ubuntu:x:1001:1001:,,,:/home/ubuntu:/bin/bash
+Question 3 : What is the inode number of the /bin/bash executable?
+Inode /bin/bash = 
+4588078 /bin/bash
+How many lines are in the /etc/services files?
+Answer : 
+13 analys_report.txt
