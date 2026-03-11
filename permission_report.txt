@@ -1,0 +1,2 @@
+drwxrwxr-x 18 root syslog 4096 Dec 19 16:10 /var/log
+-rw-r--r-- 1 root root 218 Oct  9 15:38 /etc/hosts
